@@ -20,11 +20,12 @@
 
 I'm Sid from Brazil 🇧🇷
 
-I'm currently building my foundations in **Software Development, Artificial Intelligence and Machine Learning**.
+I'm currently building strong foundations in **Software Development, Artificial Intelligence and Machine Learning**.
 
 I enjoy learning how things work, solving problems and turning what I learn into practical projects.
 
 🎯 Currently focused on:
+
 - 🐍 Python
 - 🤖 Artificial Intelligence & Machine Learning
 - 📐 Linear Algebra
@@ -32,19 +33,27 @@ I enjoy learning how things work, solving problems and turning what I learn into
 - 🗄️ SQL & Databases
 - ⚡ C#
 
-🎮 In my free time, I like playing games and reading books.
+🎮 In my free time, I like to play games and read books.
 
 ---
 
 ## 🧠 What I'm Learning
 
 ### 🐍 Python
-- Programming fundamentals
-- Logic and problem solving
+
+Currently developing my programming fundamentals with Python:
+
+- Programming logic
+- Problem solving
+- Functions
+- Data structures
 - NumPy
 - Mathematical applications
 
 ### 🤖 Artificial Intelligence & Machine Learning
+
+Building the mathematical and programming foundations required for Machine Learning:
+
 - Machine Learning fundamentals
 - Linear Algebra
 - Vectors & Matrices
@@ -53,7 +62,8 @@ I enjoy learning how things work, solving problems and turning what I learn into
 - Statistics
 
 ### 🗄️ SQL
-Currently learning the fundamentals of relational databases:
+
+Learning the fundamentals of relational databases:
 
 - `SELECT`
 - `FROM`
@@ -69,9 +79,9 @@ Currently learning the fundamentals of relational databases:
 
 ### ⚡ C#
 
-Learning the fundamentals of C# and object-oriented programming concepts:
+Learning C# fundamentals and practicing different data structures and control-flow concepts:
 
-- Variables & data types
+- Variables & Data Types
 - Operators
 - Functions
 - Arrays
@@ -101,34 +111,70 @@ Learning the fundamentals of C# and object-oriented programming concepts:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="SQL / MySQL" />
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="45" alt="DBeaver" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
 
 </div>
 
+</div>
+
 ---
 
-## 📈 My Progress
+## 📊 Current Focus
 
-```text
-🧠 Programming Fundamentals
-████████████████████░░  85%
+| Area | Level |
+|---|---|
+| Python | 🟡 Basic |
+| C# | 🟡 Basic |
+| SQL | 🟡 Basic |
+| Linear Algebra | 🟡 Fundamentals |
+| Probability | 🟡 Fundamentals |
+| Statistics | 🟡 Fundamentals |
+| Machine Learning | 🟡 Foundations |
 
-🐍 Python
-███████████████░░░░░░░  65%
+---
 
-📐 Linear Algebra
-██████████████░░░░░░░░  60%
+## 📚 My Learning Journey
 
-📊 Probability & Statistics
-███████████░░░░░░░░░░░  50%
+### ✅ Completed Foundations
 
-🗄️ SQL
-██████████░░░░░░░░░░░░  45%
+- Programming Fundamentals
+- Linear Algebra
+- Vectors & Matrices
+- Eigenvectors & Eigenvalues
+- Probability Fundamentals
+- Statistics Fundamentals
+- SQL Fundamentals
+- C# Fundamentals
 
-⚡ C#
-██████████░░░░░░░░░░░░  45%
+### 🔄 Currently Practicing
 
-🤖 Machine Learning
-██████░░░░░░░░░░░░░░░░  25%
+- Python
+- NumPy
+- Mathematical applications
+- SQL
+- C#
+- Machine Learning fundamentals
+
+---
+
+## 🚀 Projects
+
+I'm building projects to turn theory into practical experience and continuously improve my programming skills.
+
+> More projects coming soon...
+
+---
+
+<div align="center">
+
+### 💡 "Learn. Build. Break. Fix. Repeat."
+
+</div>
