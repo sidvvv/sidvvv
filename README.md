@@ -165,16 +165,4 @@ Learning C# fundamentals and practicing different data structures and control-fl
 
 ---
 
-## 🚀 Projects
-
-I'm building projects to turn theory into practical experience and continuously improve my programming skills.
-
-> More projects coming soon...
-
----
-
-<div align="center">
-
-### 💡 "Learn. Build. Break. Fix. Repeat."
-
 </div>
