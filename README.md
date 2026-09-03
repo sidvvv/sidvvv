@@ -1,31 +1,134 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdkODlldXg2cGRiOXZpdnFwd3FqbDYwMGNod3pjZjF0dG1qejVhNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Coding GIF" />
-</div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/sidneiandrelampugnani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25" alt="Twitter" />
-</div>
+# Hey 👋 I'm Sid
 
-<h1 align="center">Hey 😁</h1>
+### 💻 Aspiring Software Developer | AI & Machine Learning Enthusiast
 
-<h3 align="left">👩‍💻  About Me</h3>
-<p align="left">
-I'm Sid from Brazil <br><br>
-- 📚 I'm currently learning Fundamentals of Machine learning (Linear Algebra & Python)<br>
-- ⚡ In my free time I Like to play games and read books
+<img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdkdDlldXg2cGRiOXZpdndFw3dFqbDYwMGNod3pjZjFodG1jeVhNiZlcD12MV9zdGFuZGFyZHM/4bWWKmUnnQOQU/giphy.gif" alt="Coding GIF" />
+
+<p>
+  <a href="https://www.linkedin.com/in/sidneiandrelampugnani/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">🛠 Language and tools</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 </div>
 
-<h3 align="left">🔥   My Stats :</h3>
+---
+
+## 👨‍💻 About Me
+
+I'm Sid from Brazil 🇧🇷
+
+I'm currently building my foundations in **Software Development, Artificial Intelligence and Machine Learning**.
+
+I enjoy learning how things work, solving problems and turning what I learn into practical projects.
+
+🎯 Currently focused on:
+- 🐍 Python
+- 🤖 Artificial Intelligence & Machine Learning
+- 📐 Linear Algebra
+- 📊 Probability & Statistics
+- 🗄️ SQL & Databases
+- ⚡ C#
+
+🎮 In my free time, I like playing games and reading books.
+
+---
+
+## 🧠 What I'm Learning
+
+### 🐍 Python
+- Programming fundamentals
+- Logic and problem solving
+- NumPy
+- Mathematical applications
+
+### 🤖 Artificial Intelligence & Machine Learning
+- Machine Learning fundamentals
+- Linear Algebra
+- Vectors & Matrices
+- Eigenvectors & Eigenvalues
+- Probability
+- Statistics
+
+### 🗄️ SQL
+Currently learning the fundamentals of relational databases:
+
+- `SELECT`
+- `FROM`
+- `WHERE`
+- `ORDER BY`
+- `GROUP BY`
+- `HAVING`
+- `COUNT`
+- Aggregate functions
+- DDL
+- DML
+- Database fundamentals
+
+### ⚡ C#
+
+Learning the fundamentals of C# and object-oriented programming concepts:
+
+- Variables & data types
+- Operators
+- Functions
+- Arrays
+- ArrayList
+- Lists
+- Dictionaries
+- Queue
+- Stack
+- `if / else if / else`
+- `switch`
+- `for`
+- `foreach`
+- `while`
+- `do while`
+- `break`
+- `continue`
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="SQL / MySQL" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
+
+</div>
+
+---
+
+## 📈 My Progress
 
 ```text
-📊Current Level: Fundamentals of Artificial Intelligence
-🚀 Completed: Applied Linear Algebra (Vectors, Matrices, and Eigenvectors)
-💻 Lab: Practicing transformations with Python and NumPy
-```
+🧠 Programming Fundamentals
+████████████████████░░  85%
+
+🐍 Python
+███████████████░░░░░░░  65%
+
+📐 Linear Algebra
+██████████████░░░░░░░░  60%
+
+📊 Probability & Statistics
+███████████░░░░░░░░░░░  50%
+
+🗄️ SQL
+██████████░░░░░░░░░░░░  45%
+
+⚡ C#
+██████████░░░░░░░░░░░░  45%
+
+🤖 Machine Learning
+██████░░░░░░░░░░░░░░░░  25%
