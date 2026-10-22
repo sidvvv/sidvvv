@@ -133,7 +133,7 @@ Learning C# fundamentals and practicing different data structures and control-fl
 |---|---|
 | Python | 🟡 Basic |
 | C# | 🟡 Basic |
-| SQL | 🟡 Basic |
+| SQL | 🟡 Intermediary |
 | Linear Algebra | 🟡 Fundamentals |
 | Probability | 🟡 Fundamentals |
 | Statistics | 🟡 Fundamentals |
