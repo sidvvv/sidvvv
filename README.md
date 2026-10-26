@@ -40,65 +40,32 @@ I enjoy learning how things work, solving problems and turning what I learn into
 ## 🧠 What I'm Learning
 
 ### 🐍 Python
+Currently improving my Python skills through practical projects and problem-solving.
 
-Currently developing my programming fundamentals with Python:
-
-- Programming logic
-- Problem solving
-- Functions
-- Data structures
-- NumPy
-- Mathematical applications
+- Programming logic, functions and data structures
+- NumPy, Pandas and data manipulation
+- Mathematical applications and automation
 
 ### 🤖 Artificial Intelligence & Machine Learning
-
-Building the mathematical and programming foundations required for Machine Learning:
+Building the mathematical and programming foundations for Machine Learning.
 
 - Machine Learning fundamentals
-- Linear Algebra
-- Vectors & Matrices
-- Eigenvectors & Eigenvalues
-- Probability
-- Statistics
+- Linear Algebra, vectors and matrices
+- Probability and Statistics
 
 ### 🗄️ SQL
+Developing skills in relational databases and data manipulation.
 
-Learning the fundamentals of relational databases:
-
-- `SELECT`
-- `FROM`
-- `WHERE`
-- `ORDER BY`
-- `GROUP BY`
-- `HAVING`
-- `COUNT`
-- Aggregate functions
-- DDL
-- DML
-- Database fundamentals
+- Queries, filtering and aggregations
+- DDL, DML and database fundamentals
+- Data analysis using SQL
 
 ### ⚡ C#
+Strengthening my C# programming fundamentals.
 
-Learning C# fundamentals and practicing different data structures and control-flow concepts:
-
-- Variables & Data Types
-- Operators
-- Functions
-- Arrays
-- ArrayList
-- Lists
-- Dictionaries
-- Queue
-- Stack
-- `if / else if / else`
-- `switch`
-- `for`
-- `foreach`
-- `while`
-- `do while`
-- `break`
-- `continue`
-
+- Programming logic and control flow
+- Collections and data structures
+- Functions and problem-solving
 ---
 
 ## 🛠️ Languages & Tools
@@ -131,9 +98,9 @@ Learning C# fundamentals and practicing different data structures and control-fl
 
 | Area | Level |
 |---|---|
-| Python | 🟡 Basic |
+| Python | 🟡 Intermediate |
 | C# | 🟡 Basic |
-| SQL | 🟡 Intermediary |
+| SQL | 🟡 Intermediate |
 | Linear Algebra | 🟡 Fundamentals |
 | Probability | 🟡 Fundamentals |
 | Statistics | 🟡 Fundamentals |
